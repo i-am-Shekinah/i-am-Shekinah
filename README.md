@@ -1,4 +1,4 @@
-# Hi there, I'm Michael! 👋
+# Hi there, I'm Shekinah! 👋
 
 I'm a passionate software developer currently in the learning phase. I’m excited to grow my skills and work on innovative projects that make a difference. 
 
