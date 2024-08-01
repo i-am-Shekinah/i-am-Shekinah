@@ -13,7 +13,7 @@ I'm a passionate software developer currently in the learning phase. I’m excit
 - **Web Technologies**: HTML5, CSS3
 
 ## 🌟 Career Goals
-I'm eager to deepen my expertise in software development and am open to roles that challenge me and help me grow. My long-term aspiration is to launch my own tech startup, where I can create impactful solutions.
+I'm eager to deepen my expertise in software development and I'm open to roles that challenge me and help me grow. My long-term aspiration is to launch my own tech startup, where I can create impactful solutions.
 
 ## 📫 Get in Touch
 Feel free to reach out to me via email: [MichaelOlatunji.dev@gmail.com](mailto:MichaelOlatunji.dev@gmail.com). I’m always open to new opportunities and collaborations!
