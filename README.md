@@ -3,7 +3,7 @@
 I'm a passionate software developer currently in the learning phase. I’m excited to grow my skills and work on innovative projects that make a difference. 
 
 ## 🚀 Projects
-### [Weather API](link-to-your-project)
+### [Weather API](https://github.com/i-am-Shekinah/weather-app)
 - **Description**: A weather application built using Node.js, JavaScript, and various APIs to provide real-time weather information.
 - **Key Features**: Real-time weather updates, CLI Application, fetches location coordinates.
 
