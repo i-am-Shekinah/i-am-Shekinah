@@ -7,6 +7,10 @@ I'm a passionate software developer currently in the learning phase. I’m excit
 - **Description**: A weather application built using Node.js, JavaScript, and various APIs to provide real-time weather information.
 - **Key Features**: Real-time weather updates, CLI Application, fetches location coordinates.
 
+### [Starlite](https://github.com/i-am-Shekinah/starlite) - *ongoing*
+- **Description:**: An ongoing e-commerce application built with Python, Django, and other technologies to provide full-featured online shopping services to users.
+- **Key Features**: Upload products, Browse products, search for products, delete products, etc.
+
 ## 🛠 Skills & Technologies
 - **Languages**: JavaScript, Python, C/C++, Java
 - **Frameworks & Libraries**: Node.js, Django, Bootstrap, Vue.js
