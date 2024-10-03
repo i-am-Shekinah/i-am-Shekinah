@@ -1,6 +1,6 @@
 # Hi there, I'm Shekinah! 👋
 
-I'm a passionate software developer currently in the learning phase. I’m excited to grow my skills and work on innovative projects that make a difference. 
+I'm a passionate software developer who is always looking for opportunities that foster growth and learning. I’m excited to grow my skills and work on innovative projects that make a difference. 
 
 ## 🚀 Projects
 ### [Weather API](https://github.com/i-am-Shekinah/weather-app)
