@@ -1,6 +1,6 @@
 # Hi there, I'm Shekinah! 👋
 
-I'm a passionate software developer who is always looking for opportunities that foster growth and learning. I’m excited to grow my skills and work on innovative projects that make a difference. 
+I'm a passionate software developer always looking for opportunities that foster growth and learning. I’m excited to grow my skills and work on innovative projects that make a difference. 
 
 ## 🚀 Projects
 ### [Weather API](https://github.com/i-am-Shekinah/weather-app)
@@ -8,7 +8,7 @@ I'm a passionate software developer who is always looking for opportunities that
 - **Key Features**: Real-time weather updates, CLI Application, fetches location coordinates.
 
 ### [Starlite](https://github.com/i-am-Shekinah/starlite) - *ongoing*
-- **Description:**: An ongoing e-commerce application built with Python, Django, and other technologies to provide full-featured online shopping services to users.
+- **Description**: An ongoing e-commerce application built with Python, Django, and other technologies to provide full-featured online shopping services to users.
 - **Key Features**: Upload products, Browse products, search for products, delete products, etc.
 
 ## 🛠 Skills & Technologies
@@ -20,10 +20,10 @@ I'm a passionate software developer who is always looking for opportunities that
 I'm eager to deepen my expertise in software development and I'm open to roles that challenge me and help me grow. My long-term aspiration is to launch my own tech startup, where I can create impactful solutions.
 
 ## 📫 Get in Touch
-Feel free to reach out to me via email: [MichaelOlatunji.dev@gmail.com](mailto:MichaelOlatunji.dev@gmail.com). I’m always open to new opportunities and collaborations!
+Feel free to email me at [MichaelOlatunji.dev@gmail.com](mailto:MichaelOlatunji.dev@gmail.com). I’m always open to new opportunities and collaborations!
 
 ## 🌱 Currently Learning
-I’m actively learning new technologies and enhancing my skills. Currently, I’m focusing on improving my knowledge in full-stack development and exploring the potential of emerging technologies.
+I’m actively learning new technologies and enhancing my skills. Currently, I’m focusing on improving my knowledge of backend development and exploring the potential of emerging technologies.
 
 <!---
 i-am-Shekinah/i-am-Shekinah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
